@@ -1,6 +1,6 @@
 # install Script msc
 cd
-wget https://www.dropbox.com/s/ccz6arq7178oqrz/VPS.MSC.sh && chmod +x VPS.MSC.sh && bash ./VPS.MSC.sh
+wget https://raw.githubusercontent.com/diesel09/felipes/master/VPS.MSC.sh && chmod +x VPS.MSC.sh && bash ./VPS.MSC.sh
 clear
 
 # download script
