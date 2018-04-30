@@ -1,6 +1,6 @@
 #!/bin/bash
 echo -e "\033[0;34m✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️\033[0m"
-echo -e "\033[1;33m               MSC PERU VIP"
+echo -e "\033[1;33m               Felipe Couoh"
 echo -e "\033[0;34m✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️\033[0m"
 tput setaf 3 ; tput bold ; read -n 1 -s -p "PRESIONE CON ESTILO TECLA STAR PERÚANO..." ; echo "" ; echo "" ; tput sgr0
 # ACTUALIZACIÓN #
@@ -105,7 +105,7 @@ tput setaf 3 ; tput bold ; echo "            INSTALANDO PYTHON3 APN BITEL"; tput
 sleep 2
 clear
 echo -e "\033[0;34m-----------------------------------------------\033[0m"
-echo -e "\033[1;33m                  MSC PERU VIP \033[0m"
+echo -e "\033[1;33m                  Piratas Informaticos MX \033[0m"
 echo -e "\033[1;36m             INSTALACIÓN TERMINADO \033[1;36m"
 echo -e "\033[0;34m-----------------------------------------------\033[0;34m"
 figlet MSC PERU
