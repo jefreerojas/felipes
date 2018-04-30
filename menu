@@ -155,7 +155,7 @@ mas
 break
 ;;
 10)
-wget https://raw.githubusercontent.com/scriptmsc/scriptmsc/mscvip/openvpn-install.sh && chmod +x openvpn-install.sh && ./openvpn-install.sh
+wget https://raw.githubusercontent.com/diesel09/felipes/master/openvpn-install.sh && chmod +x openvpn-install.sh && ./openvpn-install.sh
 break
 ;;
 
